@@ -78,6 +78,7 @@ Go to 👉 [http://localhost:3000](http://localhost:3000)
 
 * **Home Page**
 * **Dashboard Page**
+<img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/cf053f90-31f3-44d2-a302-7f1855e17a01" />
 
 ## 🧠 Concepts You'll Learn
 
